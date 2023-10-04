@@ -8,3 +8,4 @@ Here I would add my DataScience projects for learning and portfolio. They are do
 005) Census India 2011 Dataset - EDA and editing some style of display dataframes
 006) Udemy Courses Dataset - data manipulations, statistics
 007) Netflix Dataset - data manipulation, creating new columns, new dataframes, filtering, plotting, visualizations
+008) Sportan - Cricket Data Analytics - Web Scrapping, Python, Pandas and Power BI
